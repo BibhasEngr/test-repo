@@ -1,2 +1,3 @@
 Hello I am learning Github 
-Now change in master branch 
+Final branching testing
+Merge Conflict issue solved 
